@@ -21,4 +21,4 @@ An end-to-end **Hybrid Multimodal Recommendation System** addressing item cold-s
 ## Tech Stack
 - **Frameworks:** PyTorch, PyTorch Geometric, Scikit-Learn, Pandas, NumPy
 - **Models:** ResNet-50, Transformers, Hetero-GraphSAGE
-- **Data:** GroupLens MovieLens (ml-25m, ml-latest-small), TMDB API
+- **Data:** GroupLens MovieLens (ml-25m, ml-latest-small)
